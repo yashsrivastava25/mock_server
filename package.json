@@ -1,0 +1,23 @@
+{
+  "name": "mock_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashsrivastava25/mock_server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashsrivastava25/mock_server/issues"
+  },
+  "homepage": "https://github.com/yashsrivastava25/mock_server#readme",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
+}
